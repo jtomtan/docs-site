@@ -32,3 +32,4 @@
 | 26     | [Cosmostation Wallet](wallets/cosmostation.md)         | <https://www.cosmostation.io/>   |No|No|  No|
 | 27     | [Trezor](wallets/trezor.md)                            | <https://trezor.io/>             |No|No| Yes|
 | 28     | [Mixin](wallets/mixin.md)                              | <https://mixin.one>              |No|No|  No|
+| 29     | [Hyperpay](wallets/hyperpay.md)                        | <http://hyperpay.tech>           |No|No|  No|
